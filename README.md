@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sabeel Wani</h1>
 <h3 align="center">A passionate Full-Stack developer currently living in Košice, Slovakia.</h3>
-<img align="right" width="40%" height="40%" src="https://media1.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47djclref34x3ci5gsrpxs5o08t4hl6vx4rhtht2he&ep=v1_gifs_related&rid=giphy.gif&ct=g" /> 
+<img align="right" width="60%" height="40%" src="https://media1.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47djclref34x3ci5gsrpxs5o08t4hl6vx4rhtht2he&ep=v1_gifs_related&rid=giphy.gif&ct=g" /> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabeelw&label=Profile%20views&color=0e75b6&style=flat" alt="sabeelw" /> </p>
 
 - 🌱 I’m currently learning **Spring Framework**
