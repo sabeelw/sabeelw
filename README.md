@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sabeel Wani</h1>
 <h3 align="center">A passionate Full-Stack developer from Kashmir, India.</h3>
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDB4aHplaGxtdTlsazdieWZjd3J6MjdnbHp6azlrOHcwZHV6MTluMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
 - 🌱 I’m currently learning **Spring Framework**
 
 - 📫 How to reach me **sabeelwani7@gmail.com**
