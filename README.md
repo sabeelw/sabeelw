@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring Framework**
 
-- 💬 Ask me about **MERN, Machine Learning and DSA**
+- 💬 Ask me about **Full-Stack Development, MERN, Machine Learning and DSA**
 
 - 📫 How to reach me **sabeelwani7@gmail.com**
 
